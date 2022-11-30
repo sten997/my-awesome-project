@@ -1,13 +1,12 @@
-package my_awesome_project
-
+package main
 
 import (
-"bufio"
-"fmt"
-"os"
-"regexp"
-"strconv"
-"strings"
+	"bufio"
+	"fmt"
+	"os"
+	"regexp"
+	"strconv"
+	"strings"
 )
 
 func scanAll(result string) []string {
