@@ -8,7 +8,7 @@ import (
 "regexp"
 "strconv"
 "strings"
-)
+) // Hi!
 
 func scanAll(result string) []string {
 	var arr []string
